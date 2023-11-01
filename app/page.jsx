@@ -1,15 +1,14 @@
 import Image from 'next/image';
 
-
-
-
-
-
-
 function MyPage() {
 
   return (
-    <div style={{ height: '100vh', backgroundColor: 'lightgray' }}>
+
+
+
+    <div style={{ display: 'flex', width: '100%', height: '100vh', backgroundColor: 'lightgray' }}>
+
+<div style={{ height: '100vh', backgroundColor: 'lightgray' }}>
    <div className='h-96'>
       <div className="fixed top-0 left-0 w-full h-56 bg-blue-500 bg-opacity-50 text-white flex items-center justify-center z-50">
         <h1 className='pl-96' style={{
@@ -167,8 +166,21 @@ fontSize: '1.5rem', // Set the font size (adjust as needed)
     </div>
   
   </div>
+
+
+    </div>
     
-  );
+    
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    );
 }
 
 export default MyPage;
