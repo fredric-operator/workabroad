@@ -6,7 +6,7 @@ function MyPage() {
 
 
 
-    <div style={{ display: 'flex', width: '100%', height: '100%', backgroundColor: 'lightgray' }}>
+    <div >
 
 <div style={{ height: '100vh', backgroundColor: 'lightgray' }}>
    <div className='h-96'>
