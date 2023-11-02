@@ -48,7 +48,7 @@ function MyPage() {
 
         <div class="flex justify-center">
           <Image
-            src="/shiping.jpg" // Replace with the actual path to your image
+            src="/shipin.jpg" // Replace with the actual path to your image
             alt="Experience New Life Abroad"
             width={1600} // Set the width of the image
             height={300} // Set the height of the image
